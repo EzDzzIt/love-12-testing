@@ -1,0 +1,9 @@
+[submodule "love"]
+	path = love
+	url = https://github.com/love2d/love.git
+[submodule "megasource"]
+	path = megasource
+	url = https://github.com/love2d/megasource.git
+[submodule "love-apple-dependencies"]
+	path = love-apple-dependencies
+	url = https://github.com/love2d/love-apple-dependencies.git
